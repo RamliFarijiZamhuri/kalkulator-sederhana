@@ -101,3 +101,6 @@ keys.addEventListener('click', (event) => {
     inputDigit(target.value);
     updateDisplay();
 });
+
+
+// By Ramli
